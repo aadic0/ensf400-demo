@@ -7,7 +7,7 @@ We will be using the gitflow workflow as described by [Atlassian](https://www.at
 
 ### 1. Main Branch
 
-- **Name**: `main`
+- **Name**: `master`
 - **Purpose**: Production ready code.
 
 ### 2. Develop Branch
